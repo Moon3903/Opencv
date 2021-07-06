@@ -1,1 +1,1 @@
-v4l2-ctrl for normalization
+v4l2-ctl for normalization
